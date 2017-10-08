@@ -18,6 +18,6 @@ gpio 5 为rst，连接到到读卡器rst。
 
 
 
-本项目用arduino打开，需要安装esp8266支持库和ESPAsyncTCP库。
+本项目用arduino打开编译，需要安装esp8266支持库和ESPAsyncTCP库。
 目前支持了永新同方卡的模拟。长时间观看会出现不稳定现象，原因未知。
 想折腾的可以添加其它卡支持。
